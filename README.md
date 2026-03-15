@@ -1,74 +1,59 @@
-<h1 align="center">Hi 👋, I'm Golden Kalala</h1>
-<h3 align="center">AI Developer • Creator of Study Buddy & NuckAI</h3>
+<!-- ========================= -->
+<!--        BANNER STYLE       -->
+<!-- ========================= -->
+
+<h1 align="center">Golden Kalala</h1>
 
 <p align="center">
-Engineering student building AI systems, mobile apps, and experimental hardware.
+<img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=AI+Developer;Creator+of+NuckAI;Creator+of+Study+Buddy;React+Native+Builder;Engineering+Student" />
 </p>
 
 <p align="center">
-📍 Poland • 🎓 WSG University
+AI Systems • Mobile Apps • Full-Stack Engineering • Hardware Projects
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🤖 Creator of **NuckAI**, an experimental transformer-based AI model  
-- 📚 Creator of **Study Buddy**, a student productivity platform  
-- 📱 Currently **porting Study Buddy from Django → React Native**  
-- 🔊 Building a **custom DSP-powered Bluetooth speaker**  
-- 🐍 Developing Python tools and experimental applications  
+- 🤖 Creator of **NuckAI**
+- 📚 Creator of **Study Buddy**
+- 📱 Currently migrating Study Buddy from **Django → React Native**
+- 🔊 Building custom DSP audio hardware
+- 🧠 Focused on AI, mobile systems, and scalable architecture
 
-I like building things from the ground up — **AI models, mobile apps, hardware, and full-stack systems.**
-
----
-
-## ⚡ Currently Building
-
-- 🤖 **NuckAI** – transformer architecture experimentation  
-- 📱 **Study Buddy Mobile** – migrating from Django backend to React Native app  
-- 🔊 **DIY Smart Speaker** – custom DSP + amplification design  
+I build projects end-to-end — from concept to deployment.
 
 ---
 
-## 🧠 Tech Stack
+## 🛠 Tech Stack
 
-### Languages
+<p align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
-### Frameworks & Tools
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 NuckAI
-Experimental AI system focused on transformer architectures, multimodal learning, and generative models.
+Experimental transformer-based AI model focused on learning architecture, experimentation, and scalable design.
 
 ### 📚 Study Buddy
-Student productivity platform designed to help students organize notes, tasks, and study sessions.
-
-Currently being **ported from Django to React Native** for a cross-platform mobile experience.
-
-### 🐍 Python Snake Game
-GUI-based Snake game built with Tkinter featuring:
-
-- multiplayer mode  
-- pause system  
-- game over screen  
-- settings menu  
+Student productivity platform.  
+Originally built with Django.  
+Currently being rebuilt in **React Native** for cross-platform mobile support.
 
 ### 🔊 Smart Bluetooth Speaker
-DIY speaker project focused on **high-quality audio, DSP processing, and custom amplification.**
+Custom hardware project with DSP processing and high-quality amplification design.
 
 ---
 
@@ -84,13 +69,21 @@ DIY speaker project focused on **high-quality audio, DSP processing, and custom 
 
 ---
 
+## 🐍 Contribution Activity
+
+<p align="center">
+<img src="https://github.com/nuck118/nuck118/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 📫 Contact
 
-📧 **goldennuck8@gmail.com**  
-🐙 **https://github.com/nuck118**
+📧 goldennuck8@gmail.com  
+🐙 github.com/nuck118  
 
 ---
 
 <p align="center">
-⚡ Always building, experimenting, and learning.
+⚡ Building the future, one system at a time.
 </p>
