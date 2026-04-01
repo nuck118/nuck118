@@ -41,30 +41,42 @@ Core areas I operate in:
 ## <div align="center">Tech Stack</div>
 
 ### Programming & Frameworks
-- Python  
-- JavaScript / TypeScript  
-- React Native  
-- Next.js  
-- Django  
-- Node.js  
+## <div align="center">Tech Stack & AWS Artillery</div>
 
-### AWS Cloud Artillery  
-I specialize in designing and deploying cloud-native systems using:
+<p align="center">
 
-- Amazon ECS Fargate  
-- Amazon Cognito  
-- Amazon S3  
-- Amazon SES  
-- Amazon Route 53  
-- AWS Amplify Hosting  
-- AWS Lambda  
-- AWS API Gateway  
-- Amazon RDS  
-- AWS IAM  
-- VPC Architecture  
-- Security Groups  
-- AWS CloudWatch  
-- Application Load Balancers  
+<!-- Programming Languages -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Python&fontSize=20&color=3776AB&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=JavaScript&fontSize=20&color=F7DF1E&fontColor=000000&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=TypeScript&fontSize=20&color=007ACC&fontColor=ffffff&fontAlignY=35" />
+
+<br><br>
+
+<!-- Frameworks -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=React+Native&fontSize=20&color=20232A&fontColor=61DAFB&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Next.js&fontSize=20&color=000000&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Django&fontSize=20&color=092E20&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Node.js&fontSize=20&color=339933&fontColor=ffffff&fontAlignY=35" />
+
+<br><br>
+
+<!-- AWS Core Services -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Amazon+ECS+Fargate&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Amazon+Cognito&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Amazon+S3&fontSize=20&color=569A31&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Amazon+SES&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Amazon+Route+53&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=AWS+Amplify+Hosting&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=AWS+Lambda&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=AWS+API+Gateway&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Amazon+RDS&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=AWS+IAM&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=VPC+Architecture&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Security+Groups&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=AWS+CloudWatch&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Application+Load+Balancers&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
+
+</p>
 
 This is the toolkit I use to build secure, scalable, maintainable systems.
 
