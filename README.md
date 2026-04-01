@@ -38,43 +38,40 @@ Core areas I operate in:
 <!--                     TECH STACK                         -->
 <!-- ====================================================== -->
 
-## <div align="center">Tech Stack</div>
-
-### Programming & Frameworks
-## <div align="center">Tech Stack & AWS Artillery</div>
+## Tech Stack & AWS Artillery
 
 <p align="center">
 
 <!-- Programming Languages -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Python&fontSize=20&color=3776AB&fontColor=ffffff&fontAlignY=35" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=JavaScript&fontSize=20&color=F7DF1E&fontColor=000000&fontAlignY=35" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=TypeScript&fontSize=20&color=007ACC&fontColor=ffffff&fontAlignY=35" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br><br>
 
 <!-- Frameworks -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=React+Native&fontSize=20&color=20232A&fontColor=61DAFB&fontAlignY=35" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Next.js&fontSize=20&color=000000&fontColor=ffffff&fontAlignY=35" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Django&fontSize=20&color=092E20&fontColor=ffffff&fontAlignY=35" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Node.js&fontSize=20&color=339933&fontColor=ffffff&fontAlignY=35" />
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 <br><br>
 
-<!-- AWS Core Services -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Amazon+ECS+Fargate&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Amazon+Cognito&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Amazon+S3&fontSize=20&color=569A31&fontColor=ffffff&fontAlignY=35" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Amazon+SES&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Amazon+Route+53&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=AWS+Amplify+Hosting&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=AWS+Lambda&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=AWS+API+Gateway&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Amazon+RDS&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=AWS+IAM&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=VPC+Architecture&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Security+Groups&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=AWS+CloudWatch&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&section=header&text=Application+Load+Balancers&fontSize=20&color=FF9900&fontColor=ffffff&fontAlignY=35" />
+<!-- AWS Services -->
+![Amazon ECS Fargate](https://img.shields.io/badge/Amazon_ECS_Fargate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Cognito](https://img.shields.io/badge/Amazon_Cognito-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon SES](https://img.shields.io/badge/Amazon_SES-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon Route 53](https://img.shields.io/badge/Amazon_Route_53-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Amplify Hosting](https://img.shields.io/badge/AWS_Amplify_Hosting-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS API Gateway](https://img.shields.io/badge/AWS_API_Gateway-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VPC Architecture](https://img.shields.io/badge/VPC_Architecture-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Security Groups](https://img.shields.io/badge/Security_Groups-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Application Load Balancers](https://img.shields.io/badge/Application_Load_Balancers-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </p>
 
