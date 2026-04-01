@@ -1,122 +1,148 @@
-<!-- ========================= -->
-<!--        PROFILE HEADER     -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                     TOP BANNER                         -->
+<!-- ====================================================== -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo-images/enter-your-text.gif" alt="banner" width="100%" />
+</p>
 
 <h1 align="center">Golden Kalala</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=AI+Developer;Full-Stack+Engineer;Mobile+Systems+Builder;Cloud+Architect+In+Progress;Engineering+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=AI+Developer;Full-Stack+Engineer;Mobile+Systems+Builder;Cloud+Architecture+Enthusiast;Engineering+Student" />
 </p>
 
-<p align="center">
-AI Systems • Mobile Engineering • Scalable Cloud Architecture
-</p>
+<p align="center">AI Systems • Mobile Engineering • Scalable Cloud Architecture</p>
 
 ---
 
-## About Me
+<!-- ====================================================== -->
+<!--                       ABOUT ME                         -->
+<!-- ====================================================== -->
 
-I engineer end-to-end digital systems — from backend architecture to mobile experiences and secure cloud deployments. My work spans AI experimentation, multi-platform app development, and production-grade AWS infrastructure.
+## <div align="center">About Me</div>
 
-I focus on building systems that are secure, scalable, and maintainable under real-world load.
+I build complete digital systems — backend architecture, cloud infrastructure, AI-driven logic, and mobile experiences.  
+My work focuses on durability, scalability, and security in production environments.
+
+Core areas I operate in:
+- Full-stack engineering  
+- Mobile systems & React Native  
+- Backend architecture for real-world load  
+- AWS cloud solutions  
+- Encryption & secure communications  
+- High-performance API engineering  
 
 ---
 
-## Core Technologies
+<!-- ====================================================== -->
+<!--                     TECH STACK                         -->
+<!-- ====================================================== -->
+
+## <div align="center">Tech Stack</div>
 
 ### Programming & Frameworks
-- Python, JavaScript, TypeScript  
-- React Native, Django, Next.js  
-- Node.js, FastAPI  
+- Python  
+- JavaScript / TypeScript  
+- React Native  
+- Next.js  
+- Django  
+- Node.js  
 
-### Cloud & Infrastructure (AWS Focus)
-I design, deploy, and maintain systems using:
+### AWS Cloud Artillery  
+I specialize in designing and deploying cloud-native systems using:
 
 - Amazon ECS Fargate  
 - Amazon Cognito  
 - Amazon S3  
 - Amazon SES  
 - Amazon Route 53  
-- Amazon Amplify (Hosting)  
+- AWS Amplify Hosting  
 - AWS Lambda  
 - AWS API Gateway  
-- AWS CloudWatch  
+- Amazon RDS  
 - AWS IAM  
-- AWS VPC, Security Groups & networking  
-- Amazon RDS (PostgreSQL & MySQL setups)  
-- ALB / Application Load Balancers  
+- VPC Architecture  
+- Security Groups  
+- AWS CloudWatch  
+- Application Load Balancers  
 
-This is the core artillery I bring to production systems.
+This is the toolkit I use to build secure, scalable, maintainable systems.
 
 ---
 
-## Featured Projects
+<!-- ====================================================== -->
+<!--                   FEATURED PROJECTS                    -->
+<!-- ====================================================== -->
 
-### VirtualClinic  
-A fully encrypted, enterprise-grade telehealth platform built around strict EU healthcare requirements.  
-- Zero-knowledge RSA-OAEP E2EE  
+## <div align="center">Featured Projects</div>
+
+### **VirtualClinic**
+A fully encrypted telehealth platform engineered for Polish/EU healthcare compliance.
+
+- RSA-OAEP zero-knowledge encryption  
 - ECS Fargate backend  
 - Aiven PostgreSQL  
 - ALB + VPC isolation  
-- Polish National KSeF integration (FA(2) XML and NIP validation)  
-- Frontend + secure client crypto in the browser  
+- KSeF integration: FA(2) XML + NIP validation  
+- Secure client-side crypto in browser  
 
 Live: **https://virtualclinic.site**
 
 ---
 
-### MyNative  
-A modern two-sided freelance language-learning marketplace.  
+### **MyNative**
+A modern, serverless marketplace connecting students with native-speaking tutors.
+
 - Next.js on AWS Amplify  
-- Cognito for student/tutor roles  
-- S3 for media storage  
-- SES for transactional emails  
-- Fully serverless design for global scale  
+- Cognito for dual-role authentication  
+- S3 for media  
+- SES for transactional email  
+- Fully serverless, globally scalable design  
 
 Live: **https://mynative.online**
 
 ---
 
-### Study Buddy  
-Cross-platform student productivity platform migrating to a React Native codebase.  
-Originally built with Django, redesigned for improved performance, speed, and long-term scalability.
+### **Study Buddy**
+Cross-platform student productivity suite.  
+Being rebuilt in **React Native** for performance, speed, and native UX.
 
 ---
 
-## Technical Strengths
+<!-- ====================================================== -->
+<!--                     GITHUB STATS                      -->
+<!-- ====================================================== -->
 
-- System Design & Architecture  
-- Secure messaging and encryption  
-- Serverless workflows  
-- Mobile + full-stack development  
-- API engineering  
-- Production troubleshooting & performance tuning  
-- Containerized backend infrastructure  
-- CI/CD pipelines and automation  
-
----
-
-## GitHub Stats
+## <div align="center">GitHub Stats</div>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nuck118&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nuck118&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuck118&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuck118&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## Contribution Activity
+<!-- ====================================================== -->
+<!--                CONTRIBUTION ACTIVITY                   -->
+<!-- ====================================================== -->
+
+## <div align="center">Contribution Activity</div>
 
 <p align="center">
-<img src="https://github.com/nuck118/nuck118/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/nuck118/nuck118/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## Contact
+<!-- ====================================================== -->
+<!--                       CONTACT                          -->
+<!-- ====================================================== -->
+
+## <div align="center">Contact</div>
 
 Email: **goldennuck8@gmail.com**  
 GitHub: **https://github.com/nuck118**
@@ -124,5 +150,5 @@ GitHub: **https://github.com/nuck118**
 ---
 
 <p align="center">
-Architecting reliable systems with clarity, precision, and intent.
+Building reliable systems with precision and intention.
 </p>
