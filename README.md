@@ -3,10 +3,9 @@
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Golden%20Kalala&fontSize=42&color=0a3d62&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Golden%20Kalala&fontSize=50&color=0a3d62&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Golden Kalala</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=AI+Developer;Full-Stack+Engineer;Mobile+Systems+Builder;Cloud+Architecture+Enthusiast;Engineering+Student" />
