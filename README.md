@@ -1,63 +1,102 @@
 <!-- ========================= -->
-<!--        BANNER STYLE       -->
+<!--        PROFILE HEADER     -->
 <!-- ========================= -->
 
 <h1 align="center">Golden Kalala</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=AI+Developer;Creator+of+NuckAI;Creator+of+Study+Buddy;React+Native+Builder;Engineering+Student" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=AI+Developer;Full-Stack+Engineer;Mobile+Systems+Builder;Cloud+Architect+In+Progress;Engineering+Student" />
 </p>
 
 <p align="center">
-AI Systems • Mobile Apps • Full-Stack Engineering • Hardware Projects
+AI Systems • Mobile Engineering • Scalable Cloud Architecture
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🤖 Creator of **NuckAI**
-- 📚 Creator of **Study Buddy**
-- 📱 Currently migrating Study Buddy from **Django → React Native**
-- 🔊 Building custom DSP audio hardware
-- 🧠 Focused on AI, mobile systems, and scalable architecture
+I engineer end-to-end digital systems — from backend architecture to mobile experiences and secure cloud deployments. My work spans AI experimentation, multi-platform app development, and production-grade AWS infrastructure.
 
-I build projects end-to-end — from concept to deployment.
+I focus on building systems that are secure, scalable, and maintainable under real-world load.
 
 ---
 
-## 🛠 Tech Stack
+## Core Technologies
 
-<p align="center">
+### Programming & Frameworks
+- Python, JavaScript, TypeScript  
+- React Native, Django, Next.js  
+- Node.js, FastAPI  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+### Cloud & Infrastructure (AWS Focus)
+I design, deploy, and maintain systems using:
 
-</p>
+- Amazon ECS Fargate  
+- Amazon Cognito  
+- Amazon S3  
+- Amazon SES  
+- Amazon Route 53  
+- Amazon Amplify (Hosting)  
+- AWS Lambda  
+- AWS API Gateway  
+- AWS CloudWatch  
+- AWS IAM  
+- AWS VPC, Security Groups & networking  
+- Amazon RDS (PostgreSQL & MySQL setups)  
+- ALB / Application Load Balancers  
 
----
-
-## 🚀 Featured Projects
-
-### 🤖 NuckAI
-Experimental transformer-based AI model focused on learning architecture, experimentation, and scalable design.
-
-### 📚 Study Buddy
-Student productivity platform.  
-Originally built with Django.  
-Currently being rebuilt in **React Native** for cross-platform mobile support.
-
-### 🔊 Smart Bluetooth Speaker
-Custom hardware project with DSP processing and high-quality amplification design.
+This is the core artillery I bring to production systems.
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
+
+### VirtualClinic  
+A fully encrypted, enterprise-grade telehealth platform built around strict EU healthcare requirements.  
+- Zero-knowledge RSA-OAEP E2EE  
+- ECS Fargate backend  
+- Aiven PostgreSQL  
+- ALB + VPC isolation  
+- Polish National KSeF integration (FA(2) XML and NIP validation)  
+- Frontend + secure client crypto in the browser  
+
+Live: **https://virtualclinic.site**
+
+---
+
+### MyNative  
+A modern two-sided freelance language-learning marketplace.  
+- Next.js on AWS Amplify  
+- Cognito for student/tutor roles  
+- S3 for media storage  
+- SES for transactional emails  
+- Fully serverless design for global scale  
+
+Live: **https://mynative.online**
+
+---
+
+### Study Buddy  
+Cross-platform student productivity platform migrating to a React Native codebase.  
+Originally built with Django, redesigned for improved performance, speed, and long-term scalability.
+
+---
+
+## Technical Strengths
+
+- System Design & Architecture  
+- Secure messaging and encryption  
+- Serverless workflows  
+- Mobile + full-stack development  
+- API engineering  
+- Production troubleshooting & performance tuning  
+- Containerized backend infrastructure  
+- CI/CD pipelines and automation  
+
+---
+
+## GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nuck118&show_icons=true&theme=tokyonight" />
@@ -69,7 +108,7 @@ Custom hardware project with DSP processing and high-quality amplification desig
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <p align="center">
 <img src="https://github.com/nuck118/nuck118/blob/output/github-contribution-grid-snake.svg" />
@@ -77,13 +116,13 @@ Custom hardware project with DSP processing and high-quality amplification desig
 
 ---
 
-## 📫 Contact
+## Contact
 
-📧 goldennuck8@gmail.com  
-🐙 github.com/nuck118  
+Email: **goldennuck8@gmail.com**  
+GitHub: **https://github.com/nuck118**
 
 ---
 
 <p align="center">
-⚡ Building the future, one system at a time.
+Architecting reliable systems with clarity, precision, and intent.
 </p>
