@@ -3,7 +3,7 @@
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo-images/enter-your-text.gif" alt="banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Golden%20Kalala&fontSize=42&color=0a3d62&fontColor=ffffff" />
 </p>
 
 <h1 align="center">Golden Kalala</h1>
